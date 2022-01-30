@@ -1,0 +1,29 @@
+.firstOne{
+    font-size: 32px;
+    background-color:red;
+    color: white;
+    font: center bold;
+    text-align: center;
+}
+
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+/*
+.secondOne {
+    font-size: 18px;
+    background-color:green;
+    color: white;
+}
+
+.firstButton{
+    background-color: orange;
+    font-size: 18px;
+}
+*/
